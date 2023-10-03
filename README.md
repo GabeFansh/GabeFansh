@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gabriel Fanshteyn
 - 👀 I’m interested in software development/software engineering
-- 🌱 I’m currently learning java, python, c
+- 🌱 I’m currently learning java, python, c, javascript (React)
 
 <!---
 GabeFansh/GabeFansh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
