@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, Python, Javascript**
 
-- 👨‍💻 All of my projects are available at [Github.com/GabeFansh](Github.com/GabeFansh)
+- 👨‍💻 All of my projects are available here on my repo!
 
 - 💬 I am looking for **Software Engineering Internships**
 
