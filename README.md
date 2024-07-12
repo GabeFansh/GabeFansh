@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Fanshteyn</h1>
 <h3 align="center">I am student at Pace University interested in Software Engineering</h3>
 
-- 🔭 My recent project is **React.js Website (In Progress)**
+- 🔭 My recent project is **Twitter Mockup Full Stack Application**
 
 - 🌱 I’m currently learning **Java, Python, Javascript**
 
